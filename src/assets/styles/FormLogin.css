@@ -1,0 +1,17 @@
+.container_FormLogin{
+    border: 3px solid #FF7F32;
+    width: 30%;
+    height: 680px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container_P{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
