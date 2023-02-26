@@ -89,7 +89,7 @@ display: flex;
   margin-bottom: 30px;
   padding-left: 20px;
   font-size: 1.1rem;
-`;function l0({type:e,placeholder:t}){return $(r0,{type:e,placeholder:t})}function qe({msn:e,type:t,placeholder:n}){return be("div",{className:"",children:[$(n0,{msn:e}),$(l0,{type:t,placeholder:n})]})}const o0="/flex_c/assets/Logo-38cee4fc.png";const Mo=()=>$("img",{src:o0,alt:"Logo",className:"Logo"}),i0=Io.button`
+`;function l0({type:e,placeholder:t}){return $(r0,{type:e,placeholder:t})}function qe({msn:e,type:t,placeholder:n}){return be("div",{className:"",children:[$(n0,{msn:e}),$(l0,{type:t,placeholder:n})]})}const o0="/FlexC/assets/Logo-38cee4fc.png";const Mo=()=>$("img",{src:o0,alt:"Logo",className:"Logo"}),i0=Io.button`
     width: 280px;
     height: 35px;
     border-radius: 90px;
